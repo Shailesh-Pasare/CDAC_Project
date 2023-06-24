@@ -1,0 +1,10 @@
+input{
+ 
+  width: 299px;
+}
+
+input[type="number"] {
+  width: 50px;
+  text-align: right;
+
+}

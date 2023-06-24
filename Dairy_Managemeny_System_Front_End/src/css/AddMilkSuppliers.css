@@ -1,0 +1,64 @@
+.add-milk-suppliers {
+    margin: 20px;
+  }
+  
+  .add-milk-suppliers h2 {
+    margin-bottom: 20px;
+  }
+  
+  .add-milk-suppliers form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-milk-suppliers .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .add-milk-suppliers label {
+    font-weight: bold;
+  }
+  
+  .add-milk-suppliers input[type="text"],
+  .add-milk-suppliers input[type="email"],
+  .add-milk-suppliers input[type="password"],
+  .add-milk-suppliers input[type="tel"],
+  .add-milk-suppliers textarea,
+  .add-milk-suppliers input[type="date"] {
+    width: -webkit-fill-available;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: inset 0px 0px 2px #ccc;
+    font-size: 1rem;
+    margin-top: 5px;
+  }
+  
+  .add-milk-suppliers button[type="submit"] {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #2d89ef;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1rem;
+  }
+  
+  .add-milk-suppliers button[type="submit"]:hover {
+    background-color: #2b5797;
+  }
+  
+  .alert {
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .alert-success {
+    background-color: #dff0d8;
+    color: #3c763d;
+    border: 1px solid #d6e9c6;
+  }
+  

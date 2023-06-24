@@ -1,0 +1,24 @@
+.home {
+    margin: 20px;
+  }
+  
+  .nav-link {
+    color: #333;
+  }
+  
+  .tab-pane {
+    padding: 20px;
+  }
+  
+  .add-milk-suppliers {
+    background-color: #f2f2f2;
+  }
+  
+  .view-milk-suppliers {
+    background-color: #d9edf7;
+  }
+  
+  .accept-milk {
+    background-color: #dff0d8;
+  }
+  

@@ -1,0 +1,11 @@
+.HomePage {
+    background-image: url('../assets/homepagevideo.mp4');
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+

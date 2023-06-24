@@ -1,0 +1,17 @@
+.dairy-management-system {
+  padding: 23px 0;
+ }
+ 
+ .dairy-management-system__block {
+   
+   background-color: rgba(170, 236, 157, 0.80) ;
+   /* opacity: 0.94; */
+   color: black;
+   border: 1px solid #ccc;
+   padding: 20px;
+   margin-top: 16px;
+   height: 234px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+ }

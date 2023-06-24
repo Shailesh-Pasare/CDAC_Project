@@ -1,0 +1,15 @@
+/* AboutUs.css */
+
+img {
+    border-radius: 50%;
+  }
+  
+  .pagepara {
+    font-size: 15.8px;
+    line-height: 1.5;
+    width: 806px;
+    background-color: rgb(255, 248, 220, 0.80);
+  position: relative;
+  left: 220px;
+  }
+  
